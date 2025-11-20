@@ -1,0 +1,34 @@
+# UTF-8
+# pyinstaller --onefile --windowed --name "Calculator" --version-file=version.txt --icon=icon.ico calculator.py
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),            # Wersja pliku
+    prodvers=(1, 0, 0, 0),            # Wersja produktu
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        '040904B0', [
+          StringStruct('CompanyName', 'polsoft.ITS London'),
+          StringStruct('FileDescription', 'A small but powerful math calculator.'),
+          StringStruct('FileVersion', '1.0'),
+          StringStruct('InternalName', 'Calculator'),
+          StringStruct('LegalCopyright', '2025© Sebastian Januchowski'),
+          StringStruct('LegalTrademarks', 'polsoft.ITS™ London'),
+          StringStruct('OriginalFilename', 'Calculator'),
+          StringStruct('ProductName', 'Calculator'),
+          StringStruct('ProductVersion', '1.0'),
+          StringStruct('Comments', 'A small but powerful math calculator.'),
+        ]
+      )
+    ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
