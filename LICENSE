@@ -1,7 +1,14 @@
-[en]
+- en -
+<<<<<<< HEAD
 MIT License
 
 Copyright (c) 2025 Sebastian Januchowski
+=======
+
+MIT License
+
+Copyright (c) 2025 Sebastian Januchowski
+>>>>>>> b8f1da2e13082c2b89ea3c90bfc5a29accf46a9e
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,13 +30,13 @@ SOFTWARE.
 
 
 
-[pl]
+- pl -
 Licencja MIT
 
 Copyright (c) 2025 Sebastian Januchowski
 
-Niniejszym udziela się każdej osobie, która otrzyma kopię tego oprogramowania i powiązanych plików dokumentacji (dalej „Oprogramowanie”), bezpłatnego pozwolenia na używanie Oprogramowania bez ograniczeń, w tym bez ograniczeń prawa do używania, kopiowania, modyfikowania, łączenia, publikowania, rozpowszechniania, sublicencjonowania i/lub sprzedaży kopii Oprogramowania, a także pozwolenia osobom, którym Oprogramowanie zostało dostarczone, na to samo, z zastrzeżeniem następujących warunków:
+Niniejszym udziela sie kazdej osobie, ktora otrzyma kopie tego oprogramowania i powiazanych plikow dokumentacji (dalej "Oprogramowanie"), bezplatnego pozwolenia na uzywanie Oprogramowania bez ograniczen, w tym bez ograniczen prawa do uzywania, kopiowania, modyfikowania, laczenia, publikowania, rozpowszechniania, sublicencjonowania i/lub sprzedazy kopii Oprogramowania, a takze pozwolenia osobom, ktorym Oprogramowanie zostalo dostarczone, na to samo, z zastrzezeniem nastepujacych warunkow:
 
-Powyższa informacja o prawach autorskich oraz niniejsze pozwolenie muszą być zawarte we wszystkich kopiach lub istotnych częściach Oprogramowania.
+Powyzsza informacja o prawach autorskich oraz niniejsze pozwolenie musza byc zawarte we wszystkich kopiach lub istotnych czesciach Oprogramowania.
 
-OPROGRAMOWANIE JEST DOSTARCZANE „TAKIE, JAKIE JEST”, BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW. W ŻADNYM WYPADKU AUTORZY ANI POSIADACZE PRAW AUTORSKICH NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA ŻADNE ROSZCZENIA, SZKODY LUB INNE ZOBOWIĄZANIA, CZY TO W RAMACH UMOWY, CZY DELIKTU, CZY INNEGO TYTUŁU, WYNIKAJĄCE Z OPROGRAMOWANIA, JEGO UŻYWANIA LUB INNYCH DZIAŁAŃ Z NIM ZWIĄZANYCH.
+OPROGRAMOWANIE JEST DOSTARCZANE "TAKIE, JAKIE JEST", BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIEDZY INNYMI GWARANCJI PRZYDATNOSCI HANDLOWEJ, PRZYDATNOSCI DO OKRESLONEGO CELU ORAZ NIENARUSZANIA PRAW. W ZADNYM WYPADKU AUTORZY ANI POSIADACZE PRAW AUTORSKICH NIE PONOSZA ODPOWIEDZIALNOSCI ZA ZADNE ROSZCZENIA, SZKODY LUB INNE ZOBOWIAZANIA, CZY TO W RAMACH UMOWY, CZY DELIKTU, CZY INNEGO TYTULU, WYNIKAJACE Z OPROGRAMOWANIA, JEGO UZYWANIA LUB INNYCH DZIALAN Z NIM ZWIAZANYCH.
