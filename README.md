@@ -1,18 +1,10 @@
 <div style="text-align: center;">
- <p align="center"> <img alt="picture" src="https://github.com/seb07uk/Calculator-v1.0/blob/main/pic.png?raw=true" />
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/Calculator/blob/main/pic.png?raw=true" />
 </div>
 
-
-
-
-
-
-# Calculator v1.0</h1></p>
-
-portable
-
----
-
+# <p align="center">Calculator</p>
+<p align="center">portable</p>
+<br>
 Application written in Python.
 
 ---
